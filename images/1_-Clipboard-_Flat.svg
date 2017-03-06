@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="58px" viewBox="0 0 40 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>1 -Clipboard- (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-130.000000, -381.000000)">
+            <g id="1--Clipboard--(Flat)" transform="translate(130.000000, 381.000000)">
+                <path d="M28,2 L28,1 C28,0.448 27.552,0 27,0 L13,0 C12.448,0 12,0.448 12,1 L12,2 L2,2 C0.895,2 0,2.895 0,4 L0,56 C0,57.105 0.895,58 2,58 L38,58 C39.105,58 40,57.105 40,56 L40,4 C40,2.895 39.105,2 38,2 L28,2 Z" id="Fill-147" fill="#876039"></path>
+                <path d="M26.9999,8 L12.9999,8 C12.4479,8 11.9999,7.552 11.9999,7 L11.9999,1 C11.9999,0.448 12.4479,0 12.9999,0 L26.9999,0 C27.5519,0 27.9999,0.448 27.9999,1 L27.9999,7 C27.9999,7.552 27.5519,8 26.9999,8" id="Fill-162" fill="#556080"></path>
+                <path d="M28,6 L28,7 C28,7.552 27.552,8 27,8 L13,8 C12.448,8 12,7.552 12,7 L12,6 L5,6 C4.448,6 4,6.448 4,7 L4,53 C4,53.552 4.448,54 5,54 L35,54 C35.552,54 36,53.552 36,53 L36,7 C36,6.448 35.552,6 35,6 L28,6 Z" id="Fill-163" fill="#F0EDE0"></path>
+                <polygon id="Stroke-164" stroke="#D4C3A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="8 19 18 19 18 13 8 13"></polygon>
+                <path d="M8,25 L32,25" id="Stroke-165" stroke="#D4C3A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,29 L30,29" id="Stroke-166" stroke="#D4C3A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,33 L29,33" id="Stroke-167" stroke="#D4C3A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22,45 L25,49" id="Stroke-168" stroke="#D4C3A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30,42 L25,49" id="Stroke-169" stroke="#D4C3A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
